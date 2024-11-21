@@ -1,8 +1,6 @@
-# React + Vite
+# AREA CALCULATOR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient project for calculating the area of geometric shapes. This application supports various shapes such as squares, rectangles, circles, triangles, and more. Built with a focus on clean code and easy-to-read algorithms, this project serves as a useful tool for geometry calculations and a learning resource for developers exploring basic mathematical logic in programming.
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/ec38f85b-d158-43e9-a203-6b24c167a234)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
